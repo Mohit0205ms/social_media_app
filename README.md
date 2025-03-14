@@ -11,7 +11,7 @@ git clone https://github.com/yourusername/your-repo-name.git
 - Install the dependencies:
 
   ```sh
-  npm install
+  yarn install
   ```
 
   - Start the development server:
