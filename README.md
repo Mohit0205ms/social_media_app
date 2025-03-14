@@ -17,7 +17,7 @@ git clone https://github.com/yourusername/your-repo-name.git
   - Start the development server:
 
   ```sh
-  npm start
+  yarn start
   ```
 
   - Build and run iOS and Android development builds:
