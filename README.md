@@ -23,9 +23,9 @@ git clone https://github.com/yourusername/your-repo-name.git
   - Build and run iOS and Android development builds:
 
   ```sh
-  npm run ios
+  yarn run ios
   # or
-  npm run android
+  yarn run android
   ```
 - In the terminal running the development server, press `i` to open the iOS simulator, `a` to open the Android device or emulator, or `w` to open the web browser.
 <img width="344" alt="Screenshot 2025-03-14 at 11 10 43 AM" src="https://github.com/user-attachments/assets/861a3017-e5d7-48b0-b141-bdeb8b22dffb" />
